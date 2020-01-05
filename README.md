@@ -1,0 +1,2 @@
+# Alamakota
+Ala ma kota
