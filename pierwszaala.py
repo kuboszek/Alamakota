@@ -7,7 +7,11 @@ def arek():
 def klaudia():
     print('klaudia')
 
+def jablon():
+    print('jablon')
+
 
 ala()
 arek()
 klaudia()
+jablon()
